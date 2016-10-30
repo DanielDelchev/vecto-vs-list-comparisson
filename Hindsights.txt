@@ -1,0 +1,67 @@
+1)
+Constructing a VectorTester appears to be faster than constructing a ListTester.
+Probably because ListTester needs to create elements segmentated among the memory,
+while VectorTester allocates its memory consequently.
+Both constructors take a reasonable mount of time,nevertheless with big number
+of elements the time needed for ListConstructor(count) begins to show.  
+
+2)
+Pushing back into a VectorTester takes O(n), since reallocation might occur,while
+Pushing back into a ListTester is O(1) in any case.
+The result suggest,however that when pushing_back a lot of elements
+VectorTester performs a bit better probably because its amortized complexity is also O(1) because
+reallocations occur seldom and VectorTester does not use pointers.
+
+3)
+RandomInsertion in the VectorTester is with complexity O(n) and that deffinately shows
+adding 256 elements for 0.25 seconds , 10 000 elements for 16 seconds, 250 000 for 8.2 minutes!!
+Inserting at random positions in the list can be both more efficient or siginficantly worse,
+depending on wheter we already have an iterator to the position we want to add an element.
+If we do have such iterator for the insertion the complexity is O(1) since it only takes a change
+in where a couple of pointers point.We can see that because adding 250 000 elements
+in a list if we have the iterators at each insertion will only take 0.2 seconds in constrast to
+8.2 minutes for a vector.
+If no such iterator is available,however, then we would have to start from the beginnning/end of 
+the list go through the pointers and reach the position we need to insert at which would make
+the complexity O(n).We can see that adding merely 100 000 elements in a ListTester without 
+specific iterators takes 1.48222e+006 milliseconds!
+
+4)
+RandomRemoval is simillar to RandomInsertion with the only difference being that
+removing elements from random positions from a VectorTester appears to be a bit faster
+than Inserting them example- adding 250 000 elements takes 8.2 min, while removing them-4.8min
+Other than that RandomRemoval of elements in ListTester with preknown iterators is again
+almost instant - 250 000 elements in 0.14 seconds and again if we don't know the iterators
+before hand then it gets ugly and we need 1.19408e+006 milliseconds to remove 250 000 elements
+in that way.
+
+5)Operator= takes almost no time for both datastructures but when
+when aplling the operator over two VectorTesters each with 250 000 elements in them
+it takes less than a millisecond, while if we appy that to ListTesters it takes 19 milliseconds
+which is still not much.
+
+6)Sorting the elements in a ascending manner for both structures is O( nlog(n) ),but still at
+high values sorting a vector appears to be faster than sorting a list-
+at 250 000 elements sorting a vector takes 328 milliseconds while a list needs 821 milliseconds for
+the same opperation. (sorting for the vector is applied with "std::sort(vec.begin(),vec.end())" )
+sorting for the list is applied with the sort function provided from the list class itself
+("listContainer.list::sort();")
+
+7)
+Searching for an element takes O(n) for the ListTester since we always need to start
+from one end and go to the other to find the element we want.Searching for an element
+in a vector,provided that the vector is sorted only takes O( log(n) ) with binary search
+Searching for 1024 elements (1 by 1) in an ListTester with 250 000 elements takes 80 milliseconds
+while searching for 1024 elements in a VectorTester with 250 000 elements takes merely 3 milliseconds.
+This suggests that in structures with immense number of elements (millions/billions)
+looking for a specific element is dramatically better if the structure is a VectorTester(vector)
+rather than a ListTester(list).
+
+A ListTester(list) is always better at adding/removing elements
+at (front/back) and can be better at adding/removing elements at a random possision,provided
+that an iterator to those position is already known , but finding a specific element in a list
+is slow for big lists.A VectorTester(vector) takes O(n) to add/remove an element to
+a random position and takes O(n) time for push_back(worst case when reallocation occurs)
+but still when adding lots of elements with push_back reallocation happens rather rarely
+and there can be amortized complexity of O(1).VectorTester(vector) is deffinately better at
+finding elements since ,if it is sorted, binary search can be applied.  

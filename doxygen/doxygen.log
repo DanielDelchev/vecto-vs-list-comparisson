@@ -1,0 +1,102 @@
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:31: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:10: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:20: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:108: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:154: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:71: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:126: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:154: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:126: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:19: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:300: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:132: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:265: warning: Unsupported xml/html tag <algorithm> found
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:61: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:51: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:30: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:95: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:41: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:277: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:9: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:85: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:126: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:154: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:51: warning: argument 'how' of command @param is not found in the argument list of ListTesterEqualOperator(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.cpp:59: warning: The following parameters of ListTesterEqualOperator(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:146: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:154: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:59: warning: argument 'how' of command @param is not found in the argument list of ListTesterSortTest(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.cpp:70: warning: The following parameters of ListTesterSortTest(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:109: warning: argument 'how' of command @param is not found in the argument list of VectorTesterEqualOperator(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.cpp:148: warning: The following parameters of VectorTesterEqualOperator(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:126: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:117: warning: argument 'how' of command @param is not found in the argument list of VectorTesterSortTest(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.cpp:159: warning: The following parameters of VectorTesterSortTest(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:126: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:154: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:51: warning: argument 'how' of command @param is not found in the argument list of ListTesterEqualOperator(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:56: warning: The following parameters of ListTesterEqualOperator(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:146: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:154: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:59: warning: argument 'how' of command @param is not found in the argument list of ListTesterSortTest(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:64: warning: The following parameters of ListTesterSortTest(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:109: warning: argument 'how' of command @param is not found in the argument list of VectorTesterEqualOperator(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:114: warning: The following parameters of VectorTesterEqualOperator(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:126: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:117: warning: argument 'how' of command @param is not found in the argument list of VectorTesterSortTest(size_t count)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/tests.h:122: warning: The following parameters of VectorTesterSortTest(size_t count) are not documented:
+  parameter 'count'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:31: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:20: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:10: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:31: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:20: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:10: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:268: warning: argument 'position' of command @param is not found in the argument list of ListTester::insertAt(std::list< int >::iterator it, int x)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.h:23: warning: The following parameters of ListTester::insertAt(std::list< int >::iterator it, int x) are not documented:
+  parameter 'it'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:58: warning: argument 'the' of command @param is not found in the argument list of ListTester::push_back(int x)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.h:14: warning: The following parameters of ListTester::push_back(int x) are not documented:
+  parameter 'x'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:68: warning: argument 'the' of command @param is not found in the argument list of ListTester::push_front(int x)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.h:17: warning: The following parameters of ListTester::push_front(int x) are not documented:
+  parameter 'x'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.cpp:279: warning: argument 'position' of command @param is not found in the argument list of ListTester::removeAt(std::list< int >::iterator it)
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/ListTester.h:24: warning: The following parameters of ListTester::removeAt(std::list< int >::iterator it) are not documented:
+  parameter 'it'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:30: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:19: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:95: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:71: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:85: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:108: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:132: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:41: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:51: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:61: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:265: warning: Unsupported xml/html tag <algorithm> found
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:300: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:277: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:9: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:30: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:19: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:41: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:95: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:9: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:61: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:277: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:300: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:299: warning: Unsupported xml/html tag <algorithm> found
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:108: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:85: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:71: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:132: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:51: warning: Found unknown command `\detailed'
+C:/Users/nooby/Desktop/from_moodle/New Folder/SDP_HOMEWORK/VectorTester.cpp:265: warning: Unsupported xml/html tag <algorithm> found

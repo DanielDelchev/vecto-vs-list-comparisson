@@ -1,0 +1,98 @@
+**************************************************************************************************
+Results for VectorTester:
+Construcing
+Constructing with 256 elements in 0 milliseconds
+Constructing with 1000 elements in 0 milliseconds
+Constructing with 10000 elements in 1 milliseconds
+Constructing with 100000 elements in 1 milliseconds
+Constructing with 250000 elements in 7 milliseconds
+PushBack
+PushingBack 256 elements in 1 milliseconds
+PushingBack 1000 elements in 0 milliseconds
+PushingBack 10000 elements in 2 milliseconds
+PushingBack 100000 elements in 23 milliseconds
+PushingBack 250000 elements in 59 milliseconds
+RandomInsert
+RandomInsert of 256 elements in 419 milliseconds
+RandomInsert of 1000 elements in 1393 milliseconds
+RandomInsert of 10000 elements in 15907 milliseconds
+RandomInsert of 100000 elements in 166421 milliseconds
+RandomInsert of 250000 elements in 435736 milliseconds
+RandomRemove
+RandomRemove of 256 elements in 438 milliseconds
+RandomRemove of 1000 elements in 1501 milliseconds
+RandomRemove of 10000 elements in 15260 milliseconds
+RandomRemove of 100000 elements in 128672 milliseconds
+RandomRemove of 250000 elements in 293473 milliseconds
+Operator= over 2 objects with 
+256 elements in 0 milliseconds
+1000 elements in 0 milliseconds
+10000 elements in 0 milliseconds
+100000 elements in 0 milliseconds
+250000 elements in 0 milliseconds
+Sorting with: 
+256 elements in 0 milliseconds
+1000 elements in 1 milliseconds
+10000 elements in 11 milliseconds
+100000 elements in 128 milliseconds
+250000 elements in 328 milliseconds
+Searching for elements 1024 times in a container with 
+256 elements in 48 milliseconds
+1000 elements in 22 milliseconds
+10000 elements in 6 milliseconds
+100000 elements in 3 milliseconds
+250000 elements in 3 milliseconds
+**************************************************************************************************
+Results for ListTester:
+Construcing
+Constructing with 256 elements in 1 milliseconds
+Constructing with 1000 elements in 1 milliseconds
+Constructing with 10000 elements in 7 milliseconds
+Constructing with 100000 elements in 82 milliseconds
+Constructing with 250000 elements in 216 milliseconds
+PushBack
+PushingBack 256 elements in 0 milliseconds
+PushingBack 1000 elements in 1 milliseconds
+PushingBack 10000 elements in 11 milliseconds
+PushingBack 100000 elements in 80 milliseconds
+PushingBack 250000 elements in 200 milliseconds
+RandomInsert (Without specific iterator to the position)!!!
+RandomInsert of 256 elements in 2588 milliseconds
+RandomInsert of 1000 elements in 11608 milliseconds
+RandomInsert of 10000 elements in 125253 milliseconds
+RandomInsert of 100000 elements in 1.48222e+006 milliseconds
+RandomRemove (Without specific iterator to the position)!!!
+RandomRemove of 256 elements in 2482 milliseconds
+RandomRemove of 1000 elements in 10469 milliseconds
+RandomRemove of 10000 elements in 102929 milliseconds
+RandomRemove of 100000 elements in 1.19408e+006 milliseconds
+Insert with prdetermined iterators of 
+256 elements in 0 milliseconds
+1000 elements in 1 milliseconds
+10000 elements in 18 milliseconds
+100000 elements in 79 milliseconds
+250000 elements in 215 milliseconds
+Remove with prdetermined iterators of 
+256 elements in 0 milliseconds
+1000 elements in 0 milliseconds
+10000 elements in 5 milliseconds
+100000 elements in 69 milliseconds
+250000 elements in 143 milliseconds
+Operator= over 2 objects with:  
+256 elements in 0 milliseconds
+1000 elements in 0 milliseconds
+10000 elements in 1 milliseconds
+100000 elements in 8 milliseconds
+250000 elements in 19 milliseconds
+Sorting with: 
+256 elements in 0 milliseconds
+1000 elements in 2 milliseconds
+10000 elements in 25 milliseconds
+100000 elements in 291 milliseconds
+250000 elements in 821 milliseconds
+Searching for elements 1024 times in a container with 
+256 elements in 83 milliseconds
+1000 elements in 88 milliseconds
+10000 elements in 90 milliseconds
+100000 elements in 98 milliseconds
+250000 elements in 80 milliseconds

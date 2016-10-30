@@ -1,0 +1,23 @@
+VectorTester
+
+Constructor - O(n)
+PushBack- O(n) (when reallocation occurs) (worst case) 
+PushBack- O(1) (when no reallocation occurs) (amortized)
+RandomInsertion of 1 element- O(n)
+RandomRemoval of 1 element- O(n)
+Operator= - O(n)
+Sorting - O( n*log(n) )
+Finding a specific element,
+provided the vector is sorted - O( log(n) ) 
+
+ListTester
+
+Constructor - O(n)
+PushBack- O(1) 
+RandomInsertion of 1 element- O(1) if an iterator to the position is already provided
+RandomRemoval of 1 element - O(1) if an iterator to the position is already provided
+RandomInsertion of 1 element- O(n) if no iterator to the position is provided
+RandomRemoval of 1 element- O(n) if no iterator to the position is provided
+Operator= - O(n)
+Sorting - O( n*log(n) )
+Finding a specific element - O(n) 
